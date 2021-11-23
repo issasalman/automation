@@ -1,7 +1,7 @@
 # automation
 
 ## REPO
-[REPO]()
+[REPO](https://github.com/issasalman/automation)
 
 ## Pull Request
-[PR]()
+[PR](https://github.com/issasalman/automation/pull/1)
